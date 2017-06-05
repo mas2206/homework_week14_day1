@@ -1,0 +1,14 @@
+.film-list {
+  background-color: lightgrey;
+}
+
+.film-div {
+  font-family: Courier;
+  font-weight: bold;
+  text-align: center;
+}
+
+.film-name {
+  color: maroon;
+  font-size: 25px;
+}
